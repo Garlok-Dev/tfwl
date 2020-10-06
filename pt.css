@@ -60,11 +60,9 @@ body{
 	padding: 50px;
 	font-size: 75px;
 	color: white;
-	border: 4px solid white;
 }
 .bh ul li a:hover{
 	background-color: grey;
-	border: 4px solid white;
 }
 
 /*Feminist 2*/
