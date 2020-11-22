@@ -1,0 +1,63 @@
+body{
+	background-color: black;
+}
+
+/*Home*/
+
+.total-home{
+	margin-left: 100px;
+}
+.icon-home{
+	display: inline-block;
+	color: white;
+}
+.home{
+	display: inline-block;
+}
+.home a{
+	text-decoration: none;
+	color: white;
+	font-size: 50px;
+}
+
+/*Definition*/
+
+.def{
+	margin-left: 450px;
+}
+.def p{
+	Color: white;
+	width: 700px;
+	font-size: 50px;
+	text-align: center;
+}
+
+/*Attention*/
+
+.attention{
+	margin-left: 450px;
+}
+.attention p{
+	Color: white;
+	width: 700px;
+	font-size: 50px;
+	text-align: center;
+}
+
+/*Look Down*/
+
+.ld{
+	margin-left: 715px;
+}
+
+/*Definition 2*/
+
+.def2{
+	margin-left: 100px;
+}
+.def2{
+	color: white;
+	font-size: 32px;
+	text-align: center;
+	font-family: 'Press Start 2P', cursive;
+}
