@@ -1,0 +1,291 @@
+body{
+	background-color: black;
+}
+
+/*Home*/
+
+.total-home{
+	margin-left: 100px;
+}
+.icon-home{
+	display: inline-block;
+	color: white;
+}
+.home{
+	display: inline-block;
+}
+.home a{
+	text-decoration: none;
+	color: white;
+	font-size: 50px;
+}
+
+/*new*/
+
+.new{
+	position: absolute;
+	left: 150px;
+	top: -85px;
+	width: 1083px;
+}
+.new p{
+	font-family: 'New Rocker', cursive;
+	font-size: 90px;
+	text-align: center;
+	color: white;
+}
+
+/*THE POETIC DEATH*/
+
+.tpd ul{
+	list-style: none;
+	margin-top: 200;
+	padding-top: 100px;
+	padding-left: 100px;
+}
+.tpd ul li{
+	display: inline-block;
+}
+.tpd ul li a{
+	border: 7px solid white;
+	text-decoration: none;
+	background-color: #131212;
+	padding: 50px;
+	font-size: 80px;
+	color: white;
+}
+.tpd ul li a:hover{
+	background-color: grey;
+}
+
+/*PERFECTION*/
+
+.pfc ul{
+	list-style: none;
+	margin-top: 200;
+	padding-top: 100px;
+	padding-left: 100px;
+}
+.pfc ul li{
+	display: inline-block;
+}
+.pfc ul li a{
+	text-decoration: none;
+	background-color: #131212;
+	padding: 50px;
+	font-size: 80px;
+	color: white;
+}
+.pfc ul li a:hover{
+	background-color: grey;
+}
+
+/*THE INHUMAN HUMAN*/
+
+.ih ul{
+	list-style: none;
+	margin-top: 200;
+	padding-top: 100px;
+	padding-left: 100px;
+}
+.ih ul li{
+	display: inline-block;
+}
+.ih ul li a{
+	text-decoration: none;
+	background-color: #131212;
+	padding: 50px;
+	font-size: 80px;
+	color: white;
+}
+.ih ul li a:hover{
+	background-color: grey;
+}
+
+/*THE ILUMINATIS: THE SECRET TO VOICES */
+
+.ti ul{
+	list-style: none;
+	margin-top: 200;
+	padding-top: 100px;
+	padding-left: 100px;
+}
+.ti ul li{
+	display: inline-block;
+}
+.ti ul li a{
+	text-decoration: none;
+	background-color: #131212;
+	padding: 50px;
+	font-size: 80px;
+	color: white;
+}
+.ti ul li a:hover{
+	background-color: grey;
+}
+
+/*GIVE ME A GUN AND I'LL MOVE MOUNTAINS OF CORPSES*/
+
+.gmg ul{
+	list-style: none;
+	margin-top: 200;
+	padding-top: 100px;
+	padding-left: 100px;
+}
+.gmg ul li{
+	display: inline-block;
+}
+.gmg ul li a{
+	text-decoration: none;
+	background-color: #131212;
+	padding: 50px;
+	font-size: 80px;
+	color: white;
+}
+.gmg ul li a:hover{
+	background-color: grey;
+}
+
+/*HUMANITY AND CONSPIRACIES*/
+
+.hc ul{
+	list-style: none;
+	margin-top: 200;
+	padding-top: 100px;
+	padding-left: 100px;
+}
+.hc ul li{
+	display: inline-block;
+}
+.hc ul li a{
+	text-decoration: none;
+	background-color: #131212;
+	padding: 50px;
+	font-size: 80px;
+	color: white;
+}
+.hc ul li a:hover{
+	background-color: grey;
+}
+
+/*Black Humour*/
+
+.bh ul{
+	list-style: none;
+	margin-top: 200;
+	padding-top: 100px;
+	padding-left: 100px;
+}
+.bh ul li{
+	display: inline-block;
+}
+.bh ul li a{
+	text-decoration: none;
+	background-color: #131212;
+	padding: 50px;
+	font-size: 80px;
+	color: white;
+}
+.bh ul li a:hover{
+	background-color: grey;
+}
+
+/*Feminist 2*/
+
+.f2 ul{
+	list-style: none;
+	margin-top: 200;
+	padding-top: 100px;
+	padding-left: 100px;
+}
+.f2 ul li{
+	display: inline-block;
+}
+.f2 ul li a{
+	text-decoration: none;
+	background-color: #131212;
+	padding: 50px;
+	font-size: 80px;
+	color: white;
+}
+.f2 ul li a:hover{
+	background-color: grey;
+}
+
+/*My toxic relationship with God*/
+
+.mtr ul{
+	list-style: none;
+	margin-top: 200;
+	padding-top: 100px;
+	padding-left: 100px;
+}
+.mtr ul li{
+	display: inline-block;
+}
+.mtr ul li a{
+	text-decoration: none;
+	background-color: #131212;
+	padding: 50px;
+	font-size: 70px;
+	color: white;
+}
+.mtr ul li a:hover{
+	background-color: grey;
+}
+
+/*How far would you go to be right: feminist*/
+
+.hfw_f ul{
+	list-style: none;
+	margin-top: 200;
+	padding-top: 100px;
+	padding-left: 100px;
+}
+.hfw_f ul li{
+	display: inline-block;
+}
+.hfw_f ul li a{
+	text-decoration: none;
+	background-color: #131212;
+	padding: 50px;
+	font-size: 80px;
+	color: white;
+}
+.hfw_f ul li a:hover{
+	background-color: grey;
+}
+
+/*Hypocrisy IS THE WORLD*/
+
+.htw ul{
+	list-style: none;
+	margin-top: 200;
+	padding-top: 100px;
+	padding-left: 100px;
+}
+.htw ul li{
+	display: inline-block;
+}
+.htw ul li a{
+	text-decoration: none;
+	background-color: #131212;
+	padding: 50px;
+	font-size: 80px;
+	color: white;
+}
+.htw ul li a:hover{
+	background-color: grey;
+}
+
+/*Message*/
+
+.message{
+	margin-top: 100px;
+}
+p{
+	color: white;
+	font-size: 20px;
+	position: absolute;
+	left: 525px;
+}
