@@ -1,0 +1,32 @@
+body{
+    background-color: #000;
+    color: #fff;
+	font-size: 30px;
+    font-family: 'Fredoka One', cursive;
+	text-align: center;
+}
+
+/* volver */
+i{
+    color: rgb(170, 170, 170);
+}
+.volver{
+    font-size: 30px;
+    width: 120px;
+}
+.volver:hover{
+    text-decoration: underline;
+}
+.volver a{
+    text-decoration: none;
+    color: rgb(170, 170, 170);
+}
+
+/*texto*/
+p a{
+	color: rgb(170, 170, 170);
+	text-decoration: none;
+}
+p a:hover{
+	text-decoration: underline;
+}

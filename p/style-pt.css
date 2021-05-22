@@ -1,0 +1,53 @@
+body{
+    background-color: #000;
+    color: #fff;
+	font-size: 30px;
+    font-family: 'Fredoka One', cursive;
+	text-align: center;
+}
+
+/* volver */
+i{
+    color: rgb(170, 170, 170);
+}
+.volver{
+    font-size: 30px;
+    width: 120px;
+	margin-bottom: 50px;
+}
+.volver:hover{
+    text-decoration: underline;
+}
+.volver a{
+    text-decoration: none;
+    color: rgb(170, 170, 170);
+}
+
+/*text*/
+h1{
+    text-align: center;
+    display: block;
+    margin: auto;
+    margin-bottom: 50px;
+}
+p{
+    display: block;
+    margin: auto;
+    max-width: 1300px;
+}
+.pdf{
+    color: #fff;
+	padding: 25px;
+	display: block;
+	margin: auto;
+	margin-top: 50px;
+	max-width: 750px;
+	background-color: rgb(170, 170, 170);
+	text-decoration: none;
+}
+.pdf:hover{
+    padding: 25px;
+	border: 5px #fff solid;
+	text-decoration: underline;
+	transition: .1s;
+}
