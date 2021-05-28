@@ -45,9 +45,18 @@ p{
 	background-color: rgb(170, 170, 170);
 	text-decoration: none;
 }
+
 .pdf:hover{
     padding: 25px;
 	border: 5px #fff solid;
 	text-decoration: underline;
 	transition: .1s;
+}
+
+/*responsive*/
+@media only screen and (max-width: 600px){
+    iframe{
+        width: 370px;
+        height: 200px;
+    }
 }
