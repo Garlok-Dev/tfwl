@@ -1,7 +1,7 @@
 body{
     background-color: #000;
     color: #fff;
-	font-size: 30px;
+	font-size: 45px;
     font-family: 'Fredoka One', cursive;
 	text-align: center;
 }
@@ -22,6 +22,15 @@ i{
     color: rgb(170, 170, 170);
 }
 
+/*Links*/
+a{
+    color: rgb(170, 170, 170);
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+
 /*text*/
 h1{
     text-align: center;
@@ -32,7 +41,7 @@ h1{
 p{
     display: block;
     margin: auto;
-    max-width: 1300px;
+    max-width: 1200px;
 }
 .pdf{
     color: #fff;
@@ -40,6 +49,7 @@ p{
 	display: block;
 	margin: auto;
 	margin-top: 50px;
+    margin-bottom: 50px;
 	max-width: 750px;
 	background-color: rgb(170, 170, 170);
 	text-decoration: none;
@@ -57,5 +67,8 @@ p{
     iframe{
         width: 370px;
         height: 200px;
+    }
+    body{
+        font-size: 30px;
     }
 }
