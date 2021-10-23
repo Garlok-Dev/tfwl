@@ -35,6 +35,7 @@ a:hover{
 h1{
     text-align: center;
     display: block;
+    width: 1000px;
     margin: auto;
     margin-bottom: 50px;
 }
