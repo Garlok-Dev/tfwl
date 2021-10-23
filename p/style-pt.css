@@ -37,6 +37,7 @@ h1{
     display: block;
     margin: auto;
     margin-bottom: 50px;
+    margin-top: 20px;
 }
 p{
     display: block;
@@ -70,5 +71,8 @@ p{
     }
     body{
         font-size: 30px;
+    }
+    .aqc{
+        font-size: 40px;
     }
 }
